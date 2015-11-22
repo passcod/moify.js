@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/passcod/moify.git"
+    "url": "git+https://github.com/passcod/moify.js.git"
   },
   "keywords": [
     "mo",
@@ -19,9 +19,9 @@
   "author": "Félix Saparelli <me@passcod.name>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/passcod/moify/issues"
+    "url": "https://github.com/passcod/moify.js/issues"
   },
-  "homepage": "https://github.com/passcod/moify/tree/lib",
+  "homepage": "https://github.com/passcod/moify.js",
   "devDependencies": {
     "snyk": "^1.1.1",
     "standard": "^5.3.1"
