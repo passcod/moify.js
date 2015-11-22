@@ -1,0 +1,32 @@
+{
+  "name": "moify",
+  "version": "1.0.0",
+  "description": "Library to put a mo on it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && snyk test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passcod/moify.git"
+  },
+  "keywords": [
+    "mo",
+    "mustache",
+    "computer-vision",
+    "face-detection"
+  ],
+  "author": "Félix Saparelli <me@passcod.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/passcod/moify/issues"
+  },
+  "homepage": "https://github.com/passcod/moify/tree/lib",
+  "devDependencies": {
+    "snyk": "^1.1.1",
+    "standard": "^5.3.1"
+  },
+  "dependencies": {
+    "wreck": "^7.0.0"
+  }
+}
