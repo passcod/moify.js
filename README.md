@@ -1,5 +1,7 @@
 # Moify library
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/passcod/moify.js.svg)](https://greenkeeper.io/)
+
 This is the official library for the [moify.me] service. It is used
 internally by the web interface.
 
